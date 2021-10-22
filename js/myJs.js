@@ -141,7 +141,7 @@ $(document).ready(function () {
           //text: textConfig.text13,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.youtube.com/watch?v=Svwi0D04RZE";
+            window.location = "https://www.canva.com/design/DAEtiaXjfzA/NmwVbsxFwSe0QAr24lhtrg/watch?utm_content=DAEtiaXjfzA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton";
           },
         });
       }
