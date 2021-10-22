@@ -1,8 +1,8 @@
 const textConfig = {
   text1: "Chào Kiều Anh xinh đẹp của anh 🐷👸 !",
-  text2: "Em có biết hôm này là ngày gì không nhỉ? Anh có điều này muốn nói đây: Là anh yêu Anh nhiều lắm haha, nhưng không biết Anh thì sao, chắc là hong ùi :((, em click OK để trả lời cho Kha biết nha ❤️",
+  text2: "Em có biết hôm này là ngày gì không nhỉ? Anh có điều này muốn nói đây: Là anh yêu bé nhiều lắm haha (nay cho sến 1 bữa kaka), nhưng không biết em thì sao, chắc là hong ùi :((, vậy em click OK để trả lời cho Kha biết nha ❤️",
   text3: "😍 Em yêu Kha nhiều lắm đúng hem 😍",
-  text4: "Nếu em không trả lời mà thoát ra là em yêu Kha nhiều đó nha !",
+  text4: "Nếu em không trả lời mà thoát ra là em yêu Kha nhiều đó nha 😁",
   text5: "No, em không yêu Kha 😢",
   text6: "Yêu ơi là yêu luôn á 😜",
   text7: "Lí do em chọn Kha, yêu Kha đến bây giờ là gì á :3",
