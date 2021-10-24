@@ -10,9 +10,9 @@ const textConfig = {
   text9: "Vì Kha đẹp trai nhất thế giới này :)))",
   text10: "Kha biết mà, Kha cũng yêu em nhiều ❤️",
   text11:
-    "Mãi bên Kha vậy nhé, Happy love anniversary 2 years: ❤️ 25/10/2019-25/10/2021 ❤️ Yêu em 😍",
+    "Mãi bên Kha và cùng Kha đón thật nhiều anni nữa nha, HAPPY LOVE ANNIVERSARY 2 YEARS: ❤️ 25/10/2019-25/10/2021 ❤️ Yêu em 😍",
   text12: "Oke Kha yêu hihi ❤️",
-  //text13: "Hello bé bi",
+  //text13: "Hello bé bi", 
 };
 
 $(document).ready(function () {
